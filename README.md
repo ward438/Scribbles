@@ -6,7 +6,7 @@ With scribbles, the user can create, modify, or delete personalized notes.
 
 
 
-<img src="" alt="Scribbles"
+<img src="https://github.com/ward438/Scribbles/blob/main/scribbles.png?raw=true" alt="Scribbles"
 width="1000px"/>
 
 
